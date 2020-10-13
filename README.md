@@ -12,7 +12,9 @@
 </p>
 
 #### Skills
-<p>&nbsp;<img src="https://img.shields.io/badge/Language-Python-green"/>&nbsp;<img src="https://img.shields.io/badge/Language-Java-blue"/></p>
+<p>&nbsp;<img src="https://img.shields.io/badge/Language-Python-green"/>&nbsp;<img src="https://img.shields.io/badge/Language-Java-blue"/>&nbsp;<img src="https://img.shields.io/badge/Language-C-orange"/></p>
+
+<p>&nbsp;<img src="https://img.shields.io/badge/Technology-HTML%205-green"/>&nbsp;<img src="https://img.shields.io/badge/Technology-Bootstrap%204-red`"/>&nbsp;<img src="https://img.shields.io/badge/Technology-NodeJS-yellowgreen"/>&nbsp;<img src="https://img.shields.io/badge/Technology-Data%20Visualization%20With%20Python-blue"/></p>
 
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj5126&show_icons=true&theme=radical)
 
