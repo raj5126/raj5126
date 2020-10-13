@@ -16,8 +16,9 @@
 
 <p>&nbsp;<img src="https://img.shields.io/badge/Technology-HTML%205-green"/>&nbsp;<img src="https://img.shields.io/badge/Technology-Bootstrap%204-red`"/>&nbsp;<img src="https://img.shields.io/badge/Technology-NodeJS-yellowgreen"/>&nbsp;<img src="https://img.shields.io/badge/Technology-Data%20Visualization%20With%20Python-blue"/></p>
 
+<p>&nbsp;<img src="https://img.shields.io/badge/Tool-Scikit--learn-lightgrey"/>&nbsp;<img src="https://img.shields.io/badge/Tool-Matplotlib-brightgreen">&nbsp;<img src="https://img.shields.io/badge/Tool-Tensorflow-orange"></p>
+
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj5126&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj5126&layout=compact)](https://github.com/raj5126/github-readme-stats)
-
 
