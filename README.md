@@ -1,10 +1,3 @@
-
-<style>
-table, tr, td {
-  border: 0px solid black;
-}
-</style>
-
 #### Hey there , I am Raj.
 
 <p>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/fluent/48/000000/student-male.png"/>&nbsp;&nbsp;Student At <b>Dharmsinh Desai University</b>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/color/48/000000/india.png"/></p>
@@ -19,12 +12,7 @@ table, tr, td {
 </p>
 
 #### Skills
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Language-Python-green"/></td>
-    <td><img src="https://img.shields.io/badge/Language-Java-blue"/></td>
-  </tr>
-</table>
+<p>&nbsp;<img src="https://img.shields.io/badge/Language-Python-green"/>&nbsp;<img src="https://img.shields.io/badge/Language-Java-blue"/></p>
 
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj5126&show_icons=true&theme=radical)
 
