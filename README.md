@@ -1,7 +1,7 @@
 #### Hey there , I am Raj.
 
 <p>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/fluent/48/000000/student-male.png"/>&nbsp;&nbsp;Student At <b>Dharmsinh Desai University</b>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/color/48/000000/india.png"/></p>
-
+<p>Batch 2017-2021</p>
 
 #### For Further Information:
 <p>
@@ -11,6 +11,8 @@
 <a href="https://www.hackerrank.com/raj_5126"><img height="40" src="https://img.icons8.com/windows/32/000000/hackerrank.png"></a>
 </p>
 
+#### Skills
+<img src="https://img.shields.io/badge/Language-Python-green">
 
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj5126&show_icons=true&theme=radical)
 
