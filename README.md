@@ -12,10 +12,10 @@
 </p>
 
 #### Skills
-<table border=0>
+<table>
   <tr>
     <td><img src="https://img.shields.io/badge/Language-Python-green"/></td>
-    <td><img srr="https://img.shields.io/badge/Language-Java-blue"/></td>
+    <td><img src="https://img.shields.io/badge/Language-Java-blue"/></td>
   </tr>
 </table>
 
