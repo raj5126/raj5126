@@ -12,7 +12,7 @@
 </p>
 
 #### Skills
-<table>
+<table border="0px">
   <tr>
     <td><img src="https://img.shields.io/badge/Language-Python-green"/></td>
     <td><img src="https://img.shields.io/badge/Language-Java-blue"/></td>
