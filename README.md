@@ -1,3 +1,10 @@
+
+<style>
+table, tr, td {
+  border: 0px solid black;
+}
+</style>
+
 #### Hey there , I am Raj.
 
 <p>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/fluent/48/000000/student-male.png"/>&nbsp;&nbsp;Student At <b>Dharmsinh Desai University</b>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/color/48/000000/india.png"/></p>
@@ -12,7 +19,7 @@
 </p>
 
 #### Skills
-<table border="0px">
+<table>
   <tr>
     <td><img src="https://img.shields.io/badge/Language-Python-green"/></td>
     <td><img src="https://img.shields.io/badge/Language-Java-blue"/></td>
