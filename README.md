@@ -1,7 +1,7 @@
 #### Hey there , I am Raj.
 
 <p>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/fluent/48/000000/student-male.png"/>&nbsp;&nbsp;Student At <b>Dharmsinh Desai University</b>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/color/48/000000/india.png"/></p>
-<p><img height="20" src="https://img.icons8.com/fluent/48/000000/calendar.png"/>Batch 2017-2021</p>
+<p>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/fluent/48/000000/calendar.png"/>&nbsp;&nbsp;Batch 2017-2021</p>
 
 #### For Further Information:
 <p>
