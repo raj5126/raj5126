@@ -1,6 +1,6 @@
 #### Hey there , I am Raj.
 
-<p><img height="20" src="https://img.icons8.com/fluent/48/000000/student-male.png"/>Student At <b>Dharmsinh Desai University</b><img height="20" src="https://img.icons8.com/color/48/000000/india.png"/></p>
+<p>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/fluent/48/000000/student-male.png"/>&nbsp;&nbsp;Student At <b>Dharmsinh Desai University</b>&nbsp;&nbsp;<img height="20" src="https://img.icons8.com/color/48/000000/india.png"/></p>
 
 
 #### For Further Information:
