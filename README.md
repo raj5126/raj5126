@@ -1,9 +1,9 @@
 #### Hey there , I am Raj.
 
 <p align='center'>
-<a href="https://twitter.com/raj_5129"><img height="30" src="http://pngimg.com/uploads/twitter/twitter_PNG34.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/raj_0512/"><img height="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/raj_5129"><img height="40" src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/raj_0512/"><img height="40" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raj-panchal-825386191/"><img height="40" src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 </p>
 
 
