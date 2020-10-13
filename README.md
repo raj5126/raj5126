@@ -12,7 +12,12 @@
 </p>
 
 #### Skills
-<img src="https://img.shields.io/badge/Language-Python-green">
+<table border=0>
+  <th>
+    <tr><img src="https://img.shields.io/badge/Language-Python-green"/></tr>
+    <tr><img srr="https://img.shields.io/badge/Language-Java-blue"/></tr>
+  </th>
+</table>
 
 ![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj5126&show_icons=true&theme=radical)
 
